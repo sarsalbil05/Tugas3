@@ -1,0 +1,57 @@
+body{
+	background: #d8e9e9;
+}
+#Tampilan{
+	background: mistyrose;
+	width: 1000px;
+	height: 2000px;
+	margin: auto;
+	padding: 5px;
+}
+#Header{
+	background: burlywood;
+	height: 200px;
+	width: 1000px;
+	overflow: hidden;
+}
+#Teks{
+	background: white;
+	height: 20px;
+	width: 1000px;
+	overflow: hidden;
+	border-style: dotted;
+	border-color: #fec97e;
+}
+#Menu{
+	background: mistyrose;
+	height: 30px;
+	width: 1000px;
+}
+#Isi{
+	background: mistyrose;
+	height: 450px;
+	width: 1000px;
+
+}
+#Kiri{
+	background: lightblue;
+	height: 550px;
+	width: 700px;
+	float: left;
+	border-style: double;
+	border-color: #f54353;
+}
+#Kanan{
+	background: #daa7f0;
+	height: 550px;
+	width: 283px;
+	float: right;
+	border-style: double;
+	border-color: #aa657a;
+}
+#Footer{
+	background: white;
+	height: 20px;
+	width: 1000px;
+	overflow: hidden;
+}
